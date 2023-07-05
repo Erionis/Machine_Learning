@@ -1,6 +1,9 @@
 # Machine_Learning
 
-Introduction to Machine Learning 2022-2023
-Course for the Artificial Intelligence and Data Analytics Degree - University of Trieste
+# Introduction to Machine Learning
 
-Fabio Anselmi, Luca Bortolussi, Alex Rodriguez, Gaia Saveri (gaia.saveri@phd.units.it / gaia.saveri@gmail.com), Irene Ferfoglia (irene.ferfoglia@phd.units.it / irene.ferfo@gmail.com)
+This repository contains all the challenges and notebooks I completed during the "Introduction to Machine Learning" course.
+
+## Challenges
+
+The challenges are practical exercises that I completed to apply the concepts learned during the course.
